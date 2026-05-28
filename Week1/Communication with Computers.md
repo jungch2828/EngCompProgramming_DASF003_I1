@@ -1,3 +1,4 @@
+## Course Introduction\
 ### Number System
 1. Denary(decimal): regular num sys we use, uses power of 10
 2. Binary: uses only 0 and 1, computers can only understand in binary num
